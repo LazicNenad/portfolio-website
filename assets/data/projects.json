@@ -1,0 +1,129 @@
+[
+   {
+      "id": 1,
+      "title": "CarFinder Application",
+      "image": "carfinderpreview.png",
+      "technologies": [
+         "Laravel 9 ",
+         "PHP (OOP)",
+         "ES6 Javascript ",
+         "AJAX",
+         "HTML 5 ",
+         "CSS 3 ",
+         "Boostrap 5 ",
+         "Artisan CLI ",
+         "Blade Templating Engine "
+      ],
+      "description": "A full stack application using Laravel on the back and Javascript for front. I made database using migrations and seeders.<br> There are functionalities like: Login/Register user, different views for different types of users (non-authorized, admin, registered users), routes are protected using middlewares and all activities are recorded in log file.<br>  Business logic of application is that Admin user can delete every entity in the application but only user that added certain entity can edit it. <br>AJAX(using Fetch API and Promises) is used for deleting, also Method in Controller is behaving differently depenting on wheter the Request is from AJAX or not.<br> Application have all CRUD operations on entities.<br>  Admin users have access to admin dashboard. On admin dashboard, admin user have CRUD operations on all tables in database.<br> Eloquent ORM (Object Relational Mapping) was used for making queries to database",
+      "linkProject": "http://carfinderlazic.online/",
+      "linkGithub": "https://github.com/LazicNenad/CarFinderApp"
+   },
+
+   {
+      "id": 2,
+      "title": "Shoe Shop",
+      "image": "shoeshop.png",
+      "technologies": [
+         "PHP 8",
+         "Javascript",
+         "AJAX",
+         "HTML 5",
+         "CSS 3",
+         "Materialize CSS Framework"
+      ],
+      "description": "A full stack application using PHP on the back and Javascript for front. I created database in phpmyadmin. <br> There are funcionalities like: Login/Register user, different views for different types of users, PDO is used for database connection and communication, Admin have CRUD operations on entities. Only admin user can reach admin dashboard. ",
+      "linkProject": "http://shoeshop.epizy.com/store.php",
+      "linkGithub": "https://github.com/LazicNenad/shoe_shop"
+   },
+
+   {
+      "id": 3,
+      "title": "Apple Shop",
+      "image": "appleshop.png",
+      "technologies": [
+         "Javascript",
+         "AJAX",
+         "Javascript RegEx",
+         "jQuery",
+         "Local Storage",
+         "HTML 5",
+         "CSS 3",
+         "Bootstrap 4"
+      ],
+      "description": "A Single Page Application (SPA) using Javascript and simulating data comming from server as json file. All the sorting, filtering and searching data is done using high-order Javascript functions (sort, filter, map, forEach, reduce...). Cart works and its done using Local storage. Application has option for viewing single product (detailed view) and its done using Modal. ",
+      "linkProject": "https://appleshopweb.netlify.app/index.html",
+      "linkGithub": "https://github.com/LazicNenad/Apple-Shop"
+   },
+
+   {
+      "id": 4,
+      "title": "Hotel Pegaz",
+      "image": "hotelpreview.png",
+      "technologies": [
+         "Javascript",
+         "Javascript RegEx",
+         "jQuery",
+         "Local Storage",
+         "HTML 5",
+         "CSS 3",
+         "Bootstrap 4"
+      ],
+      "description": "First project using Javascript. Main focus of the application was DOM Manipulation using vanilla javascript and jQuery, validation of the fields, making custom image slider, making tabs. ",
+      "linkProject": "https://hotelpegaz.netlify.app/",
+      "linkGithub": "https://github.com/LazicNenad/hotelpegaz"
+   },
+
+   {
+      "id": 5,
+      "title": "Netflix Landing Page Clone",
+      "image": "netflixclone.png",
+      "technologies": ["Javascript", "HTML 5", "CSS 3"],
+      "description": "Project using HTML and CSS mostly and Javascript was used for making tabs. Main focus was flex and grid displaying using CSS",
+      "linkProject": "https://lazicnetflix.netlify.app/",
+      "linkGithub": "https://github.com/LazicNenad/Netflix-landing-page"
+   },
+
+   {
+      "id": 6,
+      "title": "OOP and Procedural BookList",
+      "image": "booklist.png",
+      "technologies": [
+         "OOP Javascript (ES5)",
+         "OOP Javascript (ES6)",
+         "Procedural Javascript"
+      ],
+      "description": "Mini project that's done in 3 ways. OOP Javascript ES6, ES5 and in procedural way. Main focus was on traversing the dom. Creating elements using javascript, inserting them on the page, deleting, setting in LocalStorage, getting from LocalStorage.",
+      "linkProject": "https://booklistlazic.netlify.app/",
+      "linkGithub": "https://github.com/LazicNenad/BookList"
+   },
+
+   {
+      "id": 7,
+      "title": "Number Guesser JS",
+      "image": "numberguesser.png",
+      "technologies": ["HTML 5", "CSS 3", "Javascript"],
+      "description": "Mini project for guessing random number. Displaying messages on the screen, disabling input at the end of the game, DOM manipulation...",
+      "linkProject": "https://numberguesserlazic.netlify.app/",
+      "linkGithub": "https://github.com/LazicNenad/NumberGuesser"
+   },
+
+   {
+      "id": 8,
+      "title": "weHost static website",
+      "image": "wehost.png",
+      "technologies": ["HTML 5", "CSS 3"],
+      "description": "Website using HTML and CSS and some animations in CSS",
+      "linkProject": "https://wehostwebsite.netlify.app/",
+      "linkGithub": "https://github.com/LazicNenad/weHost-website"
+   },
+
+   {
+      "id": 9,
+      "title": "Central Pancevo",
+      "image": "centralpancevo.png",
+      "technologies": ["HTML 5", "CSS 3"],
+      "description": "Website using HTML and CSS and some animations in CSS.",
+      "linkProject": "https://central-pancevo.netlify.app/assets/",
+      "linkGithub": "https://github.com/LazicNenad/central-pancevo"
+   }
+]
