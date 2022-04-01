@@ -64,21 +64,21 @@
 
    {
       "id": 10,
-      "name": "MySQL",
+      "name": "SQL Databases",
       "imagePath": "mysql.png",
       "category": "back"
    },
 
    {
       "id": 11,
-      "name": "API's",
+      "name": "REST API's",
       "imagePath": "api.png",
       "category": "back"
    },
 
    {
       "id": 12,
-      "name": "OOP",
+      "name": "Object Oriented Programming",
       "imagePath": "programming.png",
       "category": "back"
    },
