@@ -21,6 +21,23 @@
 
    {
       "id": 2,
+      "title": "PerfumeShop API",
+      "image": "../api_project.png",
+      "technologies": [
+         "C#",
+         "ASP.NET Core",
+         "Entity Framework",
+         "Fluent Validation - NuGet Package",
+         "JWT Authorization",
+         ""
+      ],
+      "description": "An API created using Hexagonal architecture or Onion architecture where our main entities doesnt depend on anything. The whole project contains 5 layers. API, Application, Implementation, DataAccess, Domain. Various design patterns were used, for example CQRS Design pattern, SOLID principles, Builder design pattern, and also programming was to an interface not on an implementation. SQL Server was used as a database for this purpose. Code first approach was used using migrations and EntityFrameworkCore with all configurations for database. I also designed whole database structure and relations between entities. ",
+      "linkProject": "https://github.com/LazicNenad/PerfumeShop",
+      "linkGithub": "https://github.com/LazicNenad/PerfumeShop"
+   },
+
+   {
+      "id": 3,
       "title": "Shoe Shop",
       "image": "shoeshop.png",
       "technologies": [
@@ -37,7 +54,7 @@
    },
 
    {
-      "id": 3,
+      "id": 4,
       "title": "Apple Shop",
       "image": "appleshop.png",
       "technologies": [
@@ -56,7 +73,7 @@
    },
 
    {
-      "id": 4,
+      "id": 5,
       "title": "Hotel Pegaz",
       "image": "hotelpreview.png",
       "technologies": [
@@ -74,7 +91,7 @@
    },
 
    {
-      "id": 5,
+      "id": 6,
       "title": "Netflix Landing Page Clone",
       "image": "netflixclone.png",
       "technologies": ["Javascript", "HTML 5", "CSS 3"],
@@ -84,7 +101,7 @@
    },
 
    {
-      "id": 6,
+      "id": 7,
       "title": "OOP and Procedural BookList",
       "image": "booklist.png",
       "technologies": [
@@ -98,7 +115,7 @@
    },
 
    {
-      "id": 7,
+      "id": 8,
       "title": "Number Guesser JS",
       "image": "numberguesser.png",
       "technologies": ["HTML 5", "CSS 3", "Javascript"],
@@ -108,7 +125,7 @@
    },
 
    {
-      "id": 8,
+      "id": 9,
       "title": "weHost static website",
       "image": "wehost.png",
       "technologies": ["HTML 5", "CSS 3"],
@@ -118,7 +135,7 @@
    },
 
    {
-      "id": 9,
+      "id": 10,
       "title": "Central Pancevo",
       "image": "centralpancevo.png",
       "technologies": ["HTML 5", "CSS 3"],
