@@ -95,5 +95,17 @@
       "name": "Git",
       "imagePath": "git.png",
       "category": "extra"
+   },
+   {
+      "id": 15,
+      "name": "ASP.NET",
+      "imagePath": "asp.png",
+      "category": "back"
+   },
+   {
+      "id": 16,
+      "name": "Angular",
+      "imagePath": "angular.png",
+      "category": "front"
    }
 ]
