@@ -1,5 +1,113 @@
-<<<<<<< HEAD
 [
+   {
+      "id": 1,
+      "name": "HTML 5",
+      "imagePath": "html5.png",
+      "category": "front"
+   },
+
+   {
+      "id": 2,
+      "name": "CSS 3",
+      "imagePath": "css-3.png",
+      "category": "front"
+   },
+
+   {
+      "id": 3,
+      "name": "Javascript",
+      "imagePath": "js.png",
+      "category": "front"
+   },
+
+   {
+      "id": 4,
+      "name": "Sass",
+      "imagePath": "sass.png",
+      "category": "front"
+   },
+
+   {
+      "id": 5,
+      "name": "Bootstrap 4,5",
+      "imagePath": "bootstrap.png",
+      "category": "front"
+   },
+
+   {
+      "id": 6,
+      "name": "Vue.js",
+      "imagePath": "vuejs.png",
+      "category": "front"
+   },
+
+   {
+      "id": 7,
+      "name": "PHP",
+      "imagePath": "php.png",
+      "category": "back"
+   },
+
+   {
+      "id": 8,
+      "name": "Laravel",
+      "imagePath": "laravel.png",
+      "category": "back"
+   },
+
+   {
+      "id": 9,
+      "name": "C#",
+      "imagePath": "c-sharp.png",
+      "category": "back"
+   },
+
+   {
+      "id": 10,
+      "name": "SQL Databases",
+      "imagePath": "mysql.png",
+      "category": "back"
+   },
+
+   {
+      "id": 11,
+      "name": "REST API's",
+      "imagePath": "api.png",
+      "category": "back"
+   },
+
+   {
+      "id": 12,
+      "name": "Object Oriented Programming",
+      "imagePath": "programming.png",
+      "category": "back"
+   },
+
+   {
+      "id": 13,
+      "name": "Linux",
+      "imagePath": "linux.png",
+      "category": "extra"
+   },
+
+   {
+      "id": 14,
+      "name": "Git",
+      "imagePath": "git.png",
+      "category": "extra"
+   },
+   {
+      "id": 15,
+      "name": "ASP.NET",
+      "imagePath": "asp.png",
+      "category": "back"
+   },
+   {
+      "id": 16,
+      "name": "Angular",
+      "imagePath": "angular.png",
+      "category": "front"
+   },
    {
       "id": 1,
       "name": "HTML 5",
@@ -110,116 +218,3 @@
       "category": "front"
    }
 ]
-=======
-[
-   {
-      "id": 1,
-      "name": "HTML 5",
-      "imagePath": "html5.png",
-      "category": "front"
-   },
-
-   {
-      "id": 2,
-      "name": "CSS 3",
-      "imagePath": "css-3.png",
-      "category": "front"
-   },
-
-   {
-      "id": 3,
-      "name": "Javascript",
-      "imagePath": "js.png",
-      "category": "front"
-   },
-
-   {
-      "id": 4,
-      "name": "Sass",
-      "imagePath": "sass.png",
-      "category": "front"
-   },
-
-   {
-      "id": 5,
-      "name": "Bootstrap 4,5",
-      "imagePath": "bootstrap.png",
-      "category": "front"
-   },
-
-   {
-      "id": 6,
-      "name": "Vue.js",
-      "imagePath": "vuejs.png",
-      "category": "front"
-   },
-
-   {
-      "id": 7,
-      "name": "PHP",
-      "imagePath": "php.png",
-      "category": "back"
-   },
-
-   {
-      "id": 8,
-      "name": "Laravel",
-      "imagePath": "laravel.png",
-      "category": "back"
-   },
-
-   {
-      "id": 9,
-      "name": "C#",
-      "imagePath": "c-sharp.png",
-      "category": "back"
-   },
-
-   {
-      "id": 10,
-      "name": "SQL Databases",
-      "imagePath": "mysql.png",
-      "category": "back"
-   },
-
-   {
-      "id": 11,
-      "name": "REST API's",
-      "imagePath": "api.png",
-      "category": "back"
-   },
-
-   {
-      "id": 12,
-      "name": "Object Oriented Programming",
-      "imagePath": "programming.png",
-      "category": "back"
-   },
-
-   {
-      "id": 13,
-      "name": "Linux",
-      "imagePath": "linux.png",
-      "category": "extra"
-   },
-
-   {
-      "id": 14,
-      "name": "Git",
-      "imagePath": "git.png",
-      "category": "extra"
-   },
-   {
-      "id": 15,
-      "name": "ASP.NET",
-      "imagePath": "asp.png",
-      "category": "back"
-   },
-   {
-      "id": 16,
-      "name": "Angular",
-      "imagePath": "angular.png",
-      "category": "front"
-   }
-]
->>>>>>> 841c95a9167b8ea7dbc8daabc6eb6eccbe37a7f5
